@@ -1,5 +1,6 @@
 module Package0
 
-# Write your package code here.
+export test
+include("main.jl")
 
 end
